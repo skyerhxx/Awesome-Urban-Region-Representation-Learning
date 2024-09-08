@@ -15,7 +15,7 @@
 Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator Prediction
 |Abbreviation|Title|Publication|Paper|Code & Weights|
 |:---:|---|:---:|:---:|:---:|
-|Tile2Vec|Tile2Vec: Unsupervised Representation Learning for Spatially Distributed Data|AAAI2019|[Paper]((https://dl.acm.org/doi/pdf/10.1609/aaai.v33i01.33013967))||
+|Tile2Vec|Tile2Vec: Unsupervised Representation Learning for Spatially Distributed Data|AAAI2019|[Paper](https://dl.acm.org/doi/pdf/10.1609/aaai.v33i01.33013967)||
 |MV-PN|Efficient Region Embedding with Multi-View Spatial Networks: A Perspective of Locality-Constrained Spatial Autocorrelations|AAAI2019|[Paper](https://dl.acm.org/doi/pdf/10.1609/aaai.v33i01.3301906)||
 ||Learning to Interpret Satellite Images in Global Scale Using Wikipedia|IJCAI2019|          [Paper](https://arxiv.org/pdf/1905.02506)           ||
 |CGAL|Unifying Inter-region Autocorrelation and Intra-region Structures for Spatial Embedding via Collective Adversarial Learning|KDD2019|[Paper]([dl.acm.org/doi/pdf/10.1145/3292500.3330972](https://dl.acm.org/doi/pdf/10.1145/3292500.3330972))||
@@ -43,9 +43,9 @@ Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator P
 |MuseCL|MuseCL: Predicting Urban Socioeconomic Indicators via Multi-Semantic Contrastive Learning|IJCAI2024|[Paper]([arxiv.org/pdf/2407.09523](https://arxiv.org/pdf/2407.09523))||
 |CGAP|CGAP: Urban Region Representation Learning with Coarsened Graph Attention Pooling|IJCAI2024|[Paper]([ijcai.org/proceedings/2024/0832.pdf](https://www.ijcai.org/proceedings/2024/0832.pdf))||
 |UrbanCLIP|UrbanCLIP: Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web|WWW2024|[Paper]([dl.acm.org/doi/pdf/10.1145/3589334.3645378](https://dl.acm.org/doi/pdf/10.1145/3589334.3645378))||
-|UrbanVLP|UrbanVLP: Multi-Granularity Vision-Language Pretraining for Urban Region Profiling|arxiv2024|[Paper]([arxiv.org/pdf/2403.16831](https://arxiv.org/pdf/2403.16831))||
-|ReCP|Urban Region Embedding via Multi-View Contrastive Prediction|AAAI2024|[Paper]([arxiv.org/pdf/2312.09681](https://arxiv.org/pdf/2312.09681))||
-|CityFM|City Foundation Models for Learning General Purpose Representations from OpenStreetMap|CIKM2024|[Paper]([arxiv.org/pdf/2310.00583](https://arxiv.org/pdf/2310.00583))||
+|UrbanVLP|UrbanVLP: Multi-Granularity Vision-Language Pretraining for Urban Region Profiling|arxiv2024|[Paper](https://arxiv.org/pdf/2403.16831)||
+|ReCP|Urban Region Embedding via Multi-View Contrastive Prediction|AAAI2024|[Paper](https://arxiv.org/pdf/2312.09681)||
+|CityFM|City Foundation Models for Learning General Purpose Representations from OpenStreetMap|CIKM2024|[Paper](https://arxiv.org/pdf/2310.00583)||
 |Refound|ReFound: Crafting a Foundation Model for Urban Region Understanding upon Language and Visual Foundations|KDD2024|[Paper]([dl.acm.org/doi/pdf/10.1145/3637528.3671992](https://dl.acm.org/doi/pdf/10.1145/3637528.3671992))||
 |USPM|Profiling Urban Streets: A Semi-Supervised Prediction Model Based on Street View Imagery and Spatial Topology|KDD2024|[Paper]([dl.acm.org/doi/pdf/10.1145/3637528.3671918](https://dl.acm.org/doi/pdf/10.1145/3637528.3671918))||
 ||||||
