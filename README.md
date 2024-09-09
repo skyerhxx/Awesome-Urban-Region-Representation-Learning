@@ -30,7 +30,7 @@ Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator P
 ||Predicting Multi-level Socioeconomic Indicators from Structural Urban Imagery|CIKM2022|[Paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557153)||
 |Region2Vec|Urban Region Profiling via Multi-Graph Representation Learning|CIKM2022|[Paper]([dl.acm.org/doi/pdf/10.1145/3511808.3557720](https://dl.acm.org/doi/pdf/10.1145/3511808.3557720))||
 |MGFN|Multi-Graph Fusion Networks for Urban Region Embedding|IJCAI2022|[Paper](https://arxiv.org/pdf/2201.09760)||
-||Urban Region Profiling With Spatio-Temporal Graph Neural Networks|IEEE TCSS 2022|[Paper](https://ieeexplore.ieee.org/document/9805695)||
+|URGENT|Urban Region Profiling With Spatio-Temporal Graph Neural Networks|IEEE TCSS 2022|[Paper](https://ieeexplore.ieee.org/document/9805695)||
 |ReMVC|Region Embedding with Intra and Inter-View Contrastive Learning|TKDE2022|[Paper](https://arxiv.org/pdf/2211.08975)||
 |KnowCL|Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction|WWW2023|[Paper]([dl.acm.org/doi/pdf/10.1145/3543507.3583876](https://dl.acm.org/doi/pdf/10.1145/3543507.3583876))||
 |HREP|Heterogeneous Region Embedding with Prompt Learning|AAAI2023|[Paper](https://dl.acm.org/doi/abs/10.1609/aaai.v37i4.25625)||
@@ -46,6 +46,6 @@ Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator P
 |UrbanVLP|UrbanVLP: Multi-Granularity Vision-Language Pretraining for Urban Region Profiling|arxiv2024|[Paper](https://arxiv.org/pdf/2403.16831)||
 |ReCP|Urban Region Embedding via Multi-View Contrastive Prediction|AAAI2024|[Paper](https://arxiv.org/pdf/2312.09681)||
 |CityFM|City Foundation Models for Learning General Purpose Representations from OpenStreetMap|CIKM2024|[Paper](https://arxiv.org/pdf/2310.00583)||
-|Refound|ReFound: Crafting a Foundation Model for Urban Region Understanding upon Language and Visual Foundations|KDD2024|[Paper]([dl.acm.org/doi/pdf/10.1145/3637528.3671992](https://dl.acm.org/doi/pdf/10.1145/3637528.3671992))||
+|ReFound|ReFound: Crafting a Foundation Model for Urban Region Understanding upon Language and Visual Foundations|KDD2024|[Paper]([dl.acm.org/doi/pdf/10.1145/3637528.3671992](https://dl.acm.org/doi/pdf/10.1145/3637528.3671992))||
 |USPM|Profiling Urban Streets: A Semi-Supervised Prediction Model Based on Street View Imagery and Spatial Topology|KDD2024|[Paper]([dl.acm.org/doi/pdf/10.1145/3637528.3671918](https://dl.acm.org/doi/pdf/10.1145/3637528.3671918))||
 ||||||
