@@ -15,6 +15,7 @@
 Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator Prediction
 |Abbreviation|Title|Publication|Paper|Code & Weights|
 |:---:|---|:---:|:---:|:---:|
+|ZE-Mob|Representing Urban Functions through Zone Embedding with Human Mobility Patterns|IJCAI2018|[Paper](https://www.ijcai.org/Proceedings/2018/0545.pdf)||
 |Tile2Vec|Tile2Vec: Unsupervised Representation Learning for Spatially Distributed Data|AAAI2019|[Paper](https://dl.acm.org/doi/pdf/10.1609/aaai.v33i01.33013967)||
 |MV-PN|Efficient Region Embedding with Multi-View Spatial Networks: A Perspective of Locality-Constrained Spatial Autocorrelations|AAAI2019|[Paper](https://dl.acm.org/doi/pdf/10.1609/aaai.v33i01.3301906)||
 ||Learning to Interpret Satellite Images in Global Scale Using Wikipedia|IJCAI2019|          [Paper](https://arxiv.org/pdf/1905.02506)           ||
@@ -48,4 +49,10 @@ Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator P
 |CityFM|City Foundation Models for Learning General Purpose Representations from OpenStreetMap|CIKM2024|[Paper](https://arxiv.org/pdf/2310.00583)||
 |ReFound|ReFound: Crafting a Foundation Model for Urban Region Understanding upon Language and Visual Foundations|KDD2024|[Paper]([dl.acm.org/doi/pdf/10.1145/3637528.3671992](https://dl.acm.org/doi/pdf/10.1145/3637528.3671992))||
 |USPM|Profiling Urban Streets: A Semi-Supervised Prediction Model Based on Street View Imagery and Spatial Topology|KDD2024|[Paper]([dl.acm.org/doi/pdf/10.1145/3637528.3671918](https://dl.acm.org/doi/pdf/10.1145/3637528.3671918))||
-||||||
+
+
+
+
+
+## Related Links
+[Awesome-Spatio-Temporal-Representation-Learning: Summary of Spatio-Temporal Representation Learning Models](https://github.com/aptx1231/Awesome-Spatio-Temporal-Representation-Learning)
