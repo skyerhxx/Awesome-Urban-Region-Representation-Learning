@@ -21,7 +21,7 @@ Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator P
 |MV-PN|Efficient Region Embedding with Multi-View Spatial Networks: A Perspective of Locality-Constrained Spatial Autocorrelations|AAAI2019|[Paper](https://dl.acm.org/doi/pdf/10.1609/aaai.v33i01.3301906)|||
 ||Learning to Interpret Satellite Images in Global Scale Using Wikipedia|IJCAI2019|          [Paper](https://arxiv.org/pdf/1905.02506)           |||
 |CGAL|Unifying Inter-region Autocorrelation and Intra-region Structures for Spatial Embedding via Collective Adversarial Learning|KDD2019|[Paper]([dl.acm.org/doi/pdf/10.1145/3292500.3330972](https://dl.acm.org/doi/pdf/10.1145/3292500.3330972))|||
-|Urban2Vec|Urban2Vec: Incorporating Street View Imagery and POIs for Multi-Modal Urban Neighborhood Embedding|AAAI2020|[Paper](https://arxiv.org/pdf/2001.11101)|Street-view ing + POI (with rating & comments)||
+|Urban2Vec|Urban2Vec: Incorporating Street View Imagery and POIs for Multi-Modal Urban Neighborhood Embedding|AAAI2020|[Paper](https://arxiv.org/pdf/2001.11101)|Street-view img + POI (with rating & comments)||
 |GMEL|Learning Geo-Contextual Embeddings for Commuting Flow Prediction|AAAI2020|[Paper](https://cdn.aaai.org/ojs/5425/5425-13-8650-1-10-20200511.pdf)|||
 |READ|Lightweight and Robust Representation of Economic Scales from Satellite Imagery|AAAI2020|[Paper](https://aaai.org/papers/00428-lightweight-and-robust-representation-of-economic-scales-from-satellite-imagery/)|Satellite img||
 ||Predicting Economic Growth by Region Embedding: A Multigraph Convolutional Network Approach|CIKM2020|[Paper]([dl.acm.org/doi/pdf/10.1145/3340531.3411882](https://dl.acm.org/doi/pdf/10.1145/3340531.3411882))|||
