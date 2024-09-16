@@ -26,7 +26,7 @@ Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator P
 |READ|Lightweight and Robust Representation of Economic Scales from Satellite Imagery|AAAI2020|[Paper](https://aaai.org/papers/00428-lightweight-and-robust-representation-of-economic-scales-from-satellite-imagery/)|Satellite img||
 ||Predicting Economic Growth by Region Embedding: A Multigraph Convolutional Network Approach|CIKM2020|[Paper]([dl.acm.org/doi/pdf/10.1145/3340531.3411882](https://dl.acm.org/doi/pdf/10.1145/3340531.3411882))|||
 ||Learning to Score Economic Development from Satellite Imagery|KDD2020|[Paper]([dl.acm.org/doi/pdf/10.1145/3394486.3403347](https://dl.acm.org/doi/pdf/10.1145/3394486.3403347))|||
-|MVURE|Multi-View Joint Graph Representation Learning for Urban Region Embedding|IJCAI2020|[Paper](https://www.ijcai.org/Proceedings/2020/0611.pdf)|POI + Mobility||
+|MVURE|Multi-View Joint Graph Representation Learning for Urban Region Embedding|IJCAI2020|[Paper](https://www.ijcai.org/Proceedings/2020/0611.pdf)|POI + Mobility + Check-in||
 |SceneParse|Predicting Livelihood Indicators from Community-Generated Street-Level Imagery|AAAI2021|[Paper](https://arxiv.org/pdf/2006.08661)|||
 |M3G|Learning Neighborhood Representation from Multi-Modal Multi-Graph: Image, Text, Mobility Graph and Beyond|AAAI2021|[Paper](https://arxiv.org/pdf/2105.02489)|||
 |HUGAT|Effective Urban Region Representation Learning Using Heterogeneous Urban Graph Attention Network (HUGAT)|arxiv2022|||
@@ -61,3 +61,5 @@ Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator P
 
 ## Related Links
 [Awesome-Spatio-Temporal-Representation-Learning: Summary of Spatio-Temporal Representation Learning Models](https://github.com/aptx1231/Awesome-Spatio-Temporal-Representation-Learning)
+
+[Awesome-Multimodal-Urban-Computing](https://github.com/CityMind-Lab/Awesome-Multimodal-Urban-Computing)
