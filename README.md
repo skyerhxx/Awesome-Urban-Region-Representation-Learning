@@ -33,7 +33,7 @@ Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator P
 |PGSimCLR|Beyond the First Law of Geography: Learning Representations of Satellite Imagery by Leveraging Point-of-Interests|WWW2022|[Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512149)|Satellite img + POI||
 ||Predicting Multi-level Socioeconomic Indicators from Structural Urban Imagery|CIKM2022|[Paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557153)|Satellite img + Street-view img (+ Road Network)||
 |Region2Vec|Urban Region Profiling via Multi-Graph Representation Learning|CIKM2022|[Paper]([dl.acm.org/doi/pdf/10.1145/3511808.3557720](https://dl.acm.org/doi/pdf/10.1145/3511808.3557720))|||
-|MGFN|Multi-Graph Fusion Networks for Urban Region Embedding|IJCAI2022|[Paper](https://arxiv.org/pdf/2201.09760)|||
+|MGFN|Multi-Graph Fusion Networks for Urban Region Embedding|IJCAI2022|[Paper](https://arxiv.org/pdf/2201.09760)|Mobility||
 |URGENT|Urban Region Profiling With Spatio-Temporal Graph Neural Networks|IEEE TCSS 2022|[Paper](https://ieeexplore.ieee.org/document/9805695)|POI + Mobility||
 |ReMVC|Region Embedding with Intra and Inter-View Contrastive Learning|TKDE2022|[Paper](https://arxiv.org/pdf/2211.08975)|POI + Mobility||
 |KnowCL|Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction|WWW2023|[Paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583876)|Satellite img + Knowledge Graph||
@@ -45,14 +45,14 @@ Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator P
 |MMGR|Geographic mapping with unsupervised multi-modal representation learning from VHR images and POIs|JPRS2023|[Paper](https://www.sciencedirect.com/science/article/pii/S0924271623001235)|Satellite img + POI||
 |ROMER|Region-Wise Attentive Multi-View Representation Learning for Urban Region Embeddings|CIKM2023|[Paper]([dl.acm.org/doi/pdf/10.1145/3583780.3615194](https://dl.acm.org/doi/pdf/10.1145/3583780.3615194))|||
 |HAFusion|Urban Region Representation Learning with Attentive Fusion|ICDE2024|[Paper](https://arxiv.org/pdf/2312.04606)|||
+|ReCP|Urban Region Embedding via Multi-View Contrastive Prediction|AAAI2024|[Paper](https://arxiv.org/pdf/2312.09681)|POI + Mobility||
 |MuseCL|MuseCL: Predicting Urban Socioeconomic Indicators via Multi-Semantic Contrastive Learning|IJCAI2024|[Paper](https://arxiv.org/pdf/2407.09523)|Satellite img + Street-view img + POI + Mobility||
 |CGAP|CGAP: Urban Region Representation Learning with Coarsened Graph Attention Pooling|IJCAI2024|[Paper](https://www.ijcai.org/proceedings/2024/0832.pdf)|POI + Mobility||
 |UrbanCLIP|UrbanCLIP: Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web|WWW2024|[Paper]([dl.acm.org/doi/pdf/10.1145/3589334.3645378](https://dl.acm.org/doi/pdf/10.1145/3589334.3645378))|Satellite img + Text (generated)||
 |UrbanVLP|UrbanVLP: Multi-Granularity Vision-Language Pretraining for Urban Region Profiling|arxiv2024|[Paper](https://arxiv.org/pdf/2403.16831)|Satellite img + Street-view img + Text (generated)||
-|ReCP|Urban Region Embedding via Multi-View Contrastive Prediction|AAAI2024|[Paper](https://arxiv.org/pdf/2312.09681)|POI + Mobility||
 |CityFM|City Foundation Models for Learning General Purpose Representations from OpenStreetMap|CIKM2024|[Paper](https://arxiv.org/pdf/2310.00583)|||
 ||Urban region representation learning with human trajectories: a multi-view approach incorporating transition, spatial, and temporal perspectives|GISR2024|||
-|ReFound|ReFound: Crafting a Foundation Model for Urban Region Understanding upon Language and Visual Foundations|KDD2024|[Paper]([dl.acm.org/doi/pdf/10.1145/3637528.3671992](https://dl.acm.org/doi/pdf/10.1145/3637528.3671992))|||
+|ReFound|ReFound: Crafting a Foundation Model for Urban Region Understanding upon Language and Visual Foundations|KDD2024|[Paper]([dl.acm.org/doi/pdf/10.1145/3637528.3671992](https://dl.acm.org/doi/pdf/10.1145/3637528.3671992))|Satellite img + POI||
 |USPM|Profiling Urban Streets: A Semi-Supervised Prediction Model Based on Street View Imagery and Spatial Topology|KDD2024|[Paper]([dl.acm.org/doi/pdf/10.1145/3637528.3671918](https://dl.acm.org/doi/pdf/10.1145/3637528.3671918))|Street-view img + Text (generated)||
 
 
