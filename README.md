@@ -15,6 +15,7 @@
 Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator Prediction
 |Abbreviation|Title|Publication|Paper|Modality|Code & Weights|
 |:---:|---|:---:|:---:|:---:|:---:|
+|HDGE|Region Representation Learning via Mobility Flow|CIKM2017||Mobility||
 |ZE-Mob|Representing Urban Functions through Zone Embedding with Human Mobility Patterns|IJCAI2018|[Paper](https://www.ijcai.org/Proceedings/2018/0545.pdf)|||
 |RegionEncoder|Unsupervised Representation Learning of Spatial Data via Multimodal Embedding|CIKM2019|[Paper](https://dl.acm.org/doi/pdf/10.1145/3357384.3358001)|||
 |Tile2Vec|Tile2Vec: Unsupervised Representation Learning for Spatially Distributed Data|AAAI2019|[Paper](https://dl.acm.org/doi/pdf/10.1609/aaai.v33i01.33013967)|Satellite img||
