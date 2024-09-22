@@ -30,7 +30,7 @@ Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator P
 |MVURE|Multi-View Joint Graph Representation Learning for Urban Region Embedding|IJCAI2020|[Paper](https://www.ijcai.org/Proceedings/2020/0611.pdf)|POI + Mobility + Check-in||
 |SceneParse|Predicting Livelihood Indicators from Community-Generated Street-Level Imagery|AAAI2021|[Paper](https://arxiv.org/pdf/2006.08661)|||
 |M3G|Learning Neighborhood Representation from Multi-Modal Multi-Graph: Image, Text, Mobility Graph and Beyond|AAAI2021|[Paper](https://arxiv.org/pdf/2105.02489)|||
-|HUGAT|Effective Urban Region Representation Learning Using Heterogeneous Urban Graph Attention Network (HUGAT)|arxiv2022|||
+|HUGAT|Effective Urban Region Representation Learning Using Heterogeneous Urban Graph Attention Network (HUGAT)|arxiv2022||||
 |PGSimCLR|Beyond the First Law of Geography: Learning Representations of Satellite Imagery by Leveraging Point-of-Interests|WWW2022|[Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512149)|Satellite img + POI||
 ||Predicting Multi-level Socioeconomic Indicators from Structural Urban Imagery|CIKM2022|[Paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557153)|Satellite img + Street-view img (+ Road Network)||
 |Region2Vec|Urban Region Profiling via Multi-Graph Representation Learning|CIKM2022|[Paper]([dl.acm.org/doi/pdf/10.1145/3511808.3557720](https://dl.acm.org/doi/pdf/10.1145/3511808.3557720))|||
@@ -52,7 +52,7 @@ Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator P
 |UrbanCLIP|UrbanCLIP: Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web|WWW2024|[Paper]([dl.acm.org/doi/pdf/10.1145/3589334.3645378](https://dl.acm.org/doi/pdf/10.1145/3589334.3645378))|Satellite img + Text (generated)||
 |UrbanVLP|UrbanVLP: Multi-Granularity Vision-Language Pretraining for Urban Region Profiling|arxiv2024|[Paper](https://arxiv.org/pdf/2403.16831)|Satellite img + Street-view img + Text (generated)||
 |CityFM|City Foundation Models for Learning General Purpose Representations from OpenStreetMap|CIKM2024|[Paper](https://arxiv.org/pdf/2310.00583)|||
-||Urban region representation learning with human trajectories: a multi-view approach incorporating transition, spatial, and temporal perspectives|GISR2024|||
+|MTE|Urban region representation learning with human trajectories: a multi-view approach incorporating transition, spatial, and temporal perspectives|GISR2024||Trajectory||
 |ReFound|ReFound: Crafting a Foundation Model for Urban Region Understanding upon Language and Visual Foundations|KDD2024|[Paper]([dl.acm.org/doi/pdf/10.1145/3637528.3671992](https://dl.acm.org/doi/pdf/10.1145/3637528.3671992))|Satellite img + POI||
 |USPM|Profiling Urban Streets: A Semi-Supervised Prediction Model Based on Street View Imagery and Spatial Topology|KDD2024|[Paper]([dl.acm.org/doi/pdf/10.1145/3637528.3671918](https://dl.acm.org/doi/pdf/10.1145/3637528.3671918))|Street-view img + Text (generated)||
 
