@@ -44,7 +44,7 @@ Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator P
 |HGI|Learning urban region representations with POIs and hierarchical graph infomax|JPRS2023|[Paper](https://www.sciencedirect.com/science/article/pii/S0924271622003148)|POI||
 ||Urban visual intelligence: Uncovering hidden city profiles with street view images|PNAS2023|[Paper]([pnas.org/doi/pdf/10.1073/pnas.2220417120](https://www.pnas.org/doi/pdf/10.1073/pnas.2220417120))|||
 |MMGR|Geographic mapping with unsupervised multi-modal representation learning from VHR images and POIs|JPRS2023|[Paper](https://www.sciencedirect.com/science/article/pii/S0924271623001235)|Satellite img + POI||
-|ROMER|Region-Wise Attentive Multi-View Representation Learning for Urban Region Embeddings|CIKM2023|[Paper]([dl.acm.org/doi/pdf/10.1145/3583780.3615194](https://dl.acm.org/doi/pdf/10.1145/3583780.3615194))|||
+|ROMER|Region-Wise Attentive Multi-View Representation Learning for Urban Region Embeddings|CIKM2023|[Paper]([dl.acm.org/doi/pdf/10.1145/3583780.3615194](https://dl.acm.org/doi/pdf/10.1145/3583780.3615194))|POI + Mobility + Check-in||
 |HAFusion|Urban Region Representation Learning with Attentive Fusion|ICDE2024|[Paper](https://arxiv.org/pdf/2312.04606)|||
 |ReCP|Urban Region Embedding via Multi-View Contrastive Prediction|AAAI2024|[Paper](https://arxiv.org/pdf/2312.09681)|POI + Mobility||
 |MuseCL|MuseCL: Predicting Urban Socioeconomic Indicators via Multi-Semantic Contrastive Learning|IJCAI2024|[Paper](https://arxiv.org/pdf/2407.09523)|Satellite img + Street-view img + POI + Mobility||
