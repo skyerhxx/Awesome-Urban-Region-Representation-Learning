@@ -17,7 +17,9 @@ Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator P
 |:---:|---|:---:|:---:|:---:|:---:|
 |HDGE|Region Representation Learning via Mobility Flow|CIKM2017||Mobility||
 |ZE-Mob|Representing Urban Functions through Zone Embedding with Human Mobility Patterns|IJCAI2018|[Paper](https://www.ijcai.org/Proceedings/2018/0545.pdf)|||
+|CDAE|Learning Urban Community Structures: A Collective Embedding Perspective with Periodic Spatial-temporal Mobility Graphs|ACM TITS2018||
 |RegionEncoder|Unsupervised Representation Learning of Spatial Data via Multimodal Embedding|CIKM2019|[Paper](https://dl.acm.org/doi/pdf/10.1145/3357384.3358001)|||
+||Beyond Geo-First Law: Learning Spatial Representations via Integrated Autocorrelations and Complementarity|ICDM2019||
 |Tile2Vec|Tile2Vec: Unsupervised Representation Learning for Spatially Distributed Data|AAAI2019|[Paper](https://dl.acm.org/doi/pdf/10.1609/aaai.v33i01.33013967)|Satellite img||
 |MV-PN|Efficient Region Embedding with Multi-View Spatial Networks: A Perspective of Locality-Constrained Spatial Autocorrelations|AAAI2019|[Paper](https://dl.acm.org/doi/pdf/10.1609/aaai.v33i01.3301906)|||
 ||Learning to Interpret Satellite Images in Global Scale Using Wikipedia|IJCAI2019|          [Paper](https://arxiv.org/pdf/1905.02506)           |||
@@ -41,11 +43,12 @@ Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator P
 |Geo-Tile2Vec|Geo-Tile2Vec: A Multi-Modal and Multi-Stage Embedding Framework for Urban Analytics|ACM TSAS 2023|[Paper](https://dl.acm.org/doi/pdf/10.1145/3571741)|||
 |HREP|Heterogeneous Region Embedding with Prompt Learning|AAAI2023|[Paper](https://dl.acm.org/doi/abs/10.1609/aaai.v37i4.25625)|POI + Mobility||
 |RegionDCL|Urban Region Representation Learning with OpenStreetMap Building Footprints|KDD2023|[Paper]([dl.acm.org/doi/pdf/10.1145/3580305.3599538](https://dl.acm.org/doi/pdf/10.1145/3580305.3599538))|OpenStreetMap (Building Footprint + POI)||
-|HGI|Learning urban region representations with POIs and hierarchical graph infomax|JPRS2023|[Paper](https://www.sciencedirect.com/science/article/pii/S0924271622003148)|POI||
+||Learning Region Similarities via Graph-Based Deep Metric Learning|TKDE2023||
 ||Urban visual intelligence: Uncovering hidden city profiles with street view images|PNAS2023|[Paper]([pnas.org/doi/pdf/10.1073/pnas.2220417120](https://www.pnas.org/doi/pdf/10.1073/pnas.2220417120))|||
+|HGI|Learning urban region representations with POIs and hierarchical graph infomax|JPRS2023|[Paper](https://www.sciencedirect.com/science/article/pii/S0924271622003148)|POI||
 |MMGR|Geographic mapping with unsupervised multi-modal representation learning from VHR images and POIs|JPRS2023|[Paper](https://www.sciencedirect.com/science/article/pii/S0924271623001235)|Satellite img + POI||
 |ROMER|Region-Wise Attentive Multi-View Representation Learning for Urban Region Embeddings|CIKM2023|[Paper]([dl.acm.org/doi/pdf/10.1145/3583780.3615194](https://dl.acm.org/doi/pdf/10.1145/3583780.3615194))|POI + Mobility + Check-in||
-|HAFusion|Urban Region Representation Learning with Attentive Fusion|ICDE2024|[Paper](https://arxiv.org/pdf/2312.04606)|||
+|HAFusion|Urban Region Representation Learning with Attentive Fusion|ICDE2024|[Paper](https://arxiv.org/pdf/2312.04606)||POI + Mobility + Land use|
 |ReCP|Urban Region Embedding via Multi-View Contrastive Prediction|AAAI2024|[Paper](https://arxiv.org/pdf/2312.09681)|POI + Mobility||
 |MuseCL|MuseCL: Predicting Urban Socioeconomic Indicators via Multi-Semantic Contrastive Learning|IJCAI2024|[Paper](https://arxiv.org/pdf/2407.09523)|Satellite img + Street-view img + POI + Mobility||
 |CGAP|CGAP: Urban Region Representation Learning with Coarsened Graph Attention Pooling|IJCAI2024|[Paper](https://www.ijcai.org/proceedings/2024/0832.pdf)|POI + Mobility||
