@@ -44,7 +44,7 @@ Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator P
 |HREP|Heterogeneous Region Embedding with Prompt Learning|AAAI2023|[Paper](https://dl.acm.org/doi/abs/10.1609/aaai.v37i4.25625)|POI + Mobility||
 |RegionDCL|Urban Region Representation Learning with OpenStreetMap Building Footprints|KDD2023|[Paper]([dl.acm.org/doi/pdf/10.1145/3580305.3599538](https://dl.acm.org/doi/pdf/10.1145/3580305.3599538))|OpenStreetMap (Building Footprint + POI)||
 ||Learning Region Similarities via Graph-Based Deep Metric Learning|TKDE2023||||
-||Urban visual intelligence: Uncovering hidden city profiles with street view images|PNAS2023|[Paper]([pnas.org/doi/pdf/10.1073/pnas.2220417120](https://www.pnas.org/doi/pdf/10.1073/pnas.2220417120))|||
+||Urban visual intelligence: Uncovering hidden city profiles with street view images|PNAS2023|[Paper]([pnas.org/doi/pdf/10.1073/pnas.2220417120](https://www.pnas.org/doi/pdf/10.1073/pnas.2220417120))|Street-view img + POI||
 |HGI|Learning urban region representations with POIs and hierarchical graph infomax|JPRS2023|[Paper](https://www.sciencedirect.com/science/article/pii/S0924271622003148)|POI||
 |MMGR|Geographic mapping with unsupervised multi-modal representation learning from VHR images and POIs|JPRS2023|[Paper](https://www.sciencedirect.com/science/article/pii/S0924271623001235)|Satellite img + POI||
 |ROMER|Region-Wise Attentive Multi-View Representation Learning for Urban Region Embeddings|CIKM2023|[Paper]([dl.acm.org/doi/pdf/10.1145/3583780.3615194](https://dl.acm.org/doi/pdf/10.1145/3583780.3615194))|POI + Mobility + Check-in||
