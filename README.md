@@ -21,7 +21,7 @@ Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator P
 |RegionEncoder|Unsupervised Representation Learning of Spatial Data via Multimodal Embedding|CIKM2019|[Paper](https://dl.acm.org/doi/pdf/10.1145/3357384.3358001)|||
 ||Beyond Geo-First Law: Learning Spatial Representations via Integrated Autocorrelations and Complementarity|ICDM2019||||
 |Tile2Vec|Tile2Vec: Unsupervised Representation Learning for Spatially Distributed Data|AAAI2019|[Paper](https://dl.acm.org/doi/pdf/10.1609/aaai.v33i01.33013967)|Satellite img||
-|MV-PN|Efficient Region Embedding with Multi-View Spatial Networks: A Perspective of Locality-Constrained Spatial Autocorrelations|AAAI2019|[Paper](https://dl.acm.org/doi/pdf/10.1609/aaai.v33i01.3301906)|||
+|MV-PN|Efficient Region Embedding with Multi-View Spatial Networks: A Perspective of Locality-Constrained Spatial Autocorrelations|AAAI2019|[Paper](https://dl.acm.org/doi/pdf/10.1609/aaai.v33i01.3301906)|POI + Mobility||
 ||Learning to Interpret Satellite Images in Global Scale Using Wikipedia|IJCAI2019|          [Paper](https://arxiv.org/pdf/1905.02506)           |||
 |CGAL|Unifying Inter-region Autocorrelation and Intra-region Structures for Spatial Embedding via Collective Adversarial Learning|KDD2019|[Paper]([dl.acm.org/doi/pdf/10.1145/3292500.3330972](https://dl.acm.org/doi/pdf/10.1145/3292500.3330972))|||
 |Urban2Vec|Urban2Vec: Incorporating Street View Imagery and POIs for Multi-Modal Urban Neighborhood Embedding|AAAI2020|[Paper](https://arxiv.org/pdf/2001.11101)|Street-view img + POI (with rating & comments)||
