@@ -35,7 +35,7 @@ Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator P
 |HUGAT|Effective Urban Region Representation Learning Using Heterogeneous Urban Graph Attention Network (HUGAT)|arxiv2022||||
 |PG-SimCLR|Beyond the First Law of Geography: Learning Representations of Satellite Imagery by Leveraging Point-of-Interests|WWW2022|[Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512149)|Satellite img + POI||
 ||Predicting Multi-level Socioeconomic Indicators from Structural Urban Imagery|CIKM2022|[Paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557153)|Satellite img + Street-view img (+ Road Network)||
-|Region2Vec|Urban Region Profiling via Multi-Graph Representation Learning|CIKM2022|[Paper]([dl.acm.org/doi/pdf/10.1145/3511808.3557720](https://dl.acm.org/doi/pdf/10.1145/3511808.3557720))|||
+|Region2Vec|Urban Region Profiling via Multi-Graph Representation Learning|CIKM2022|[Paper]([dl.acm.org/doi/pdf/10.1145/3511808.3557720](https://dl.acm.org/doi/pdf/10.1145/3511808.3557720))|POI + Mobility||
 |MGFN|Multi-Graph Fusion Networks for Urban Region Embedding|IJCAI2022|[Paper](https://arxiv.org/pdf/2201.09760)|Mobility||
 |URGENT|Urban Region Profiling With Spatio-Temporal Graph Neural Networks|IEEE TCSS 2022|[Paper](https://ieeexplore.ieee.org/document/9805695)|POI + Mobility||
 |ReMVC|Region Embedding with Intra and Inter-View Contrastive Learning|TKDE2022|[Paper](https://arxiv.org/pdf/2211.08975)|POI + Mobility||
