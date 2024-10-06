@@ -33,6 +33,7 @@ Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator P
 |SceneParse|Predicting Livelihood Indicators from Community-Generated Street-Level Imagery|AAAI2021|[Paper](https://arxiv.org/pdf/2006.08661)|Street-view img||
 |M3G|Learning Neighborhood Representation from Multi-Modal Multi-Graph: Image, Text, Mobility Graph and Beyond|AAAI2021|[Paper](https://arxiv.org/pdf/2105.02489)|||
 |HUGAT|Effective Urban Region Representation Learning Using Heterogeneous Urban Graph Attention Network (HUGAT)|arxiv2022||||
+|CcFTL|A Cross-City Federated Transfer Learning Framework: A Case Study on Urban Region Profiling|arxiv2022|||
 |PG-SimCLR|Beyond the First Law of Geography: Learning Representations of Satellite Imagery by Leveraging Point-of-Interests|WWW2022|[Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512149)|Satellite img + POI||
 ||Predicting Multi-level Socioeconomic Indicators from Structural Urban Imagery|CIKM2022|[Paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557153)|Satellite img + Street-view img (+ Road Network)||
 |Region2Vec|Urban Region Profiling via Multi-Graph Representation Learning|CIKM2022|[Paper]([dl.acm.org/doi/pdf/10.1145/3511808.3557720](https://dl.acm.org/doi/pdf/10.1145/3511808.3557720))|POI + Mobility||
