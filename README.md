@@ -59,7 +59,7 @@ Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator P
 |MTE|Urban region representation learning with human trajectories: a multi-view approach incorporating transition, spatial, and temporal perspectives|GISR2024||Trajectory||
 |ReFound|ReFound: Crafting a Foundation Model for Urban Region Understanding upon Language and Visual Foundations|KDD2024|[Paper]([dl.acm.org/doi/pdf/10.1145/3637528.3671992](https://dl.acm.org/doi/pdf/10.1145/3637528.3671992))|Satellite img + POI||
 |USPM|Profiling Urban Streets: A Semi-Supervised Prediction Model Based on Street View Imagery and Spatial Topology|KDD2024|[Paper]([dl.acm.org/doi/pdf/10.1145/3637528.3671918](https://dl.acm.org/doi/pdf/10.1145/3637528.3671918))|Street-view img + Text (generated)||
-
+||Multi-level urban street representation with street-view imagery and hybrid semantic graph|JATM2024||Street-view img + (Social media) Check-in (+ Road Network)|
 
 
 
