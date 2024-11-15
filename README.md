@@ -44,6 +44,7 @@ Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator P
 |ReMVC|Region Embedding with Intra and Inter-View Contrastive Learning|TKDE2022|[Paper](https://arxiv.org/pdf/2211.08975)|POI + Mobility||
 |KnowCL|Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction|WWW2023|[Paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583876)|Satellite img + Knowledge Graph||
 |Geo-Tile2Vec|Geo-Tile2Vec: A Multi-Modal and Multi-Stage Embedding Framework for Urban Analytics|ACM TSAS 2023|[Paper](https://dl.acm.org/doi/pdf/10.1145/3571741)|||
+||Point-to-Region Co-learning for Poverty Mapping at High Resolution Using Satellite Imagery|AAAI2023|||
 |HREP|Heterogeneous Region Embedding with Prompt Learning|AAAI2023|[Paper](https://dl.acm.org/doi/abs/10.1609/aaai.v37i4.25625)|POI + Mobility||
 |RegionDCL|Urban Region Representation Learning with OpenStreetMap Building Footprints|KDD2023|[Paper]([dl.acm.org/doi/pdf/10.1145/3580305.3599538](https://dl.acm.org/doi/pdf/10.1145/3580305.3599538))|OpenStreetMap (Building Footprint + POI)||
 ||Learning Region Similarities via Graph-Based Deep Metric Learning|TKDE2023||||
