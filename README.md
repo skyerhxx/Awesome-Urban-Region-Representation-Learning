@@ -25,6 +25,7 @@ Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator P
 ||Learning to Interpret Satellite Images in Global Scale Using Wikipedia|IJCAI2019|          [Paper](https://arxiv.org/pdf/1905.02506)           |||
 |CGAL|Unifying Inter-region Autocorrelation and Intra-region Structures for Spatial Embedding via Collective Adversarial Learning|KDD2019|[Paper]([dl.acm.org/doi/pdf/10.1145/3292500.3330972](https://dl.acm.org/doi/pdf/10.1145/3292500.3330972))|||
 ||Predicting Economic Development using Geolocated Wikipedia Articles|KDD2019||Satellite img (nighttime) + Wikipedia articles|
+||Predicting Economic Growth by Region Embedding:A Multigraph Convolutional Network Approach|CIKM2020|||
 |Urban2Vec|Urban2Vec: Incorporating Street View Imagery and POIs for Multi-Modal Urban Neighborhood Embedding|AAAI2020|[Paper](https://arxiv.org/pdf/2001.11101)|Street-view img + POI (with rating & comments)||
 |GMEL|Learning Geo-Contextual Embeddings for Commuting Flow Prediction|AAAI2020|[Paper](https://cdn.aaai.org/ojs/5425/5425-13-8650-1-10-20200511.pdf)|||
 |READ|Lightweight and Robust Representation of Economic Scales from Satellite Imagery|AAAI2020|[Paper](https://aaai.org/papers/00428-lightweight-and-robust-representation-of-economic-scales-from-satellite-imagery/)|Satellite img||
@@ -42,6 +43,7 @@ Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator P
 |MGFN|Multi-Graph Fusion Networks for Urban Region Embedding|IJCAI2022|[Paper](https://arxiv.org/pdf/2201.09760)|Mobility||
 |URGENT|Urban Region Profiling With Spatio-Temporal Graph Neural Networks|IEEE TCSS 2022|[Paper](https://ieeexplore.ieee.org/document/9805695)|POI + Mobility||
 |ReMVC|Region Embedding with Intra and Inter-View Contrastive Learning|TKDE2022|[Paper](https://arxiv.org/pdf/2211.08975)|POI + Mobility||
+||Multi-modal Based Region Representation Learning Considering Mobility Data in Seoul|PCS2023||
 |KnowCL|Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction|WWW2023|[Paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583876)|Satellite img + Knowledge Graph||
 |Geo-Tile2Vec|Geo-Tile2Vec: A Multi-Modal and Multi-Stage Embedding Framework for Urban Analytics|ACM TSAS 2023|[Paper](https://dl.acm.org/doi/pdf/10.1145/3571741)|||
 ||Point-to-Region Co-learning for Poverty Mapping at High Resolution Using Satellite Imagery|AAAI2023|||
