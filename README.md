@@ -1,4 +1,4 @@
-<!-- [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models/graphs/commit-activity) -->
+|<!-- [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models/graphs/commit-activity) -->
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models)
 <!-- <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models?style=social"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models?style=social"> -->
 
@@ -13,8 +13,8 @@
 
 ## Urban Region Representation Learning
 Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator Prediction
-|Abbreviation|Title|Publication|Paper|Modality|Code & Weights|
-|:---:|---|:---:|:---:|:---:|:---:|
+|Abbreviation|Title|Publication|Paper|Modality|Downstram Tasks|Code & Weights|
+|:---:|---|:---:|:---:|:---:|:---:|:---:|
 |HDGE|Region Representation Learning via Mobility Flow|CIKM2017||Mobility||
 |ZE-Mob|Representing Urban Functions through Zone Embedding with Human Mobility Patterns|IJCAI2018|[Paper](https://www.ijcai.org/Proceedings/2018/0545.pdf)|||
 |CDAE|Learning Urban Community Structures: A Collective Embedding Perspective with Periodic Spatial-temporal Mobility Graphs|ACM TITS2018||||
