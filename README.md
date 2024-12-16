@@ -65,9 +65,10 @@ Other names: Urban Region Profiling / Urban Region Embedding / Urban Indicator P
 |ReFound|ReFound: Crafting a Foundation Model for Urban Region Understanding upon Language and Visual Foundations|KDD2024|[Paper]([dl.acm.org/doi/pdf/10.1145/3637528.3671992](https://dl.acm.org/doi/pdf/10.1145/3637528.3671992))|Satellite img + POI|1. Urban Village Detection 2.Commercial Activeness Prediction 3.Population Prediction|
 |USPM|Profiling Urban Streets: A Semi-Supervised Prediction Model Based on Street View Imagery and Spatial Topology|KDD2024|[Paper]([dl.acm.org/doi/pdf/10.1145/3637528.3671918](https://dl.acm.org/doi/pdf/10.1145/3637528.3671918))|Street-view img + Text (generated)||
 ||Multi-level urban street representation with street-view imagery and hybrid semantic graph|JATM2024||Street-view img + (Social media) Check-in (+ Road Network)|
-
-
-
+|GeoHG|Learning Geospatial Region Embedding with Heterogeneous Graph|arxiv2024||
+||Enhanced Urban Region Profiling with Adversarial Contrastive Learning|arxiv2024|
+||Explainable Hierarchical Urban Representation Learning for Commuting Flow Prediction|arxiv2024||
+||Demo2Vec: Learning Region Embedding with Demographic Information|arxiv2024|
 
 ## Related Links
 [Awesome-Spatio-Temporal-Representation-Learning: Summary of Spatio-Temporal Representation Learning Models](https://github.com/aptx1231/Awesome-Spatio-Temporal-Representation-Learning)
